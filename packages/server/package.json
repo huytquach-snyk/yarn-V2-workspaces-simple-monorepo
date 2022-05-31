@@ -5,7 +5,8 @@
   "dependencies": {
     "@example/example-1": "workspace:*",
     "@example/example-2": "workspace:*",
-    "@packages/common": "workspace:*"
+    "@packages/common": "workspace:*",
+    "expressapp": "^1.0.4"
   },
   "scripts": {
     "build": "tsc",
