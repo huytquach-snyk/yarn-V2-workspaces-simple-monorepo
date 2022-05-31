@@ -9,7 +9,6 @@
     "start": "node app/.dist/index.js"
   },
   "workspaces": [
-    "app",
     "examples/*",
     "packages/*"
   ],
