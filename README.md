@@ -84,7 +84,7 @@ Recommended.  Things will be a lot easier
 #### Setup
 From the project root, run:  
 1. `npm install -g yarn`
-2. `yarn set version berry && yarn set version latest`
+2. `yarn set version berry`
 3. `yarn config set nodeLinker "node-modules"`   
    Makes working with existing tools much easier
 4. `yarn plugin import typescript`   
